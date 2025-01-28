@@ -1,0 +1,1 @@
+dapr stop --app-id nodeservice pythonservice phpservice myapp

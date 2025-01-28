@@ -1,0 +1,1 @@
+dapr run --app-id myapp --dapr-http-port 3600
